@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AreaTrapezoid</string>
+    <string name="txt_name">Adriano Maciel Sanchez</string>
+    <string name="txt_ra">1110482313018</string>
+    <string name="et_base_b">Base b</string>
+    <string name="et_base_a">Base a</string>
+    <string name="et_height">Height</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="txt_result">Area = </string>
+</resources>
